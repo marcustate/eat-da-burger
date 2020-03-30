@@ -1,0 +1,27 @@
+{
+  "name": "eat-da-burger",
+  "version": "1.0.0",
+  "description": "In this assignment we are creating a logger for a burger application. I will be using a node, express, handlebars,\r and ORM (object-relational-mapping).",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcustate/eat-da-burger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcustate/eat-da-burger/issues"
+  },
+  "homepage": "https://github.com/marcustate/eat-da-burger#readme",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.0",
+    "mysql": "^2.18.1"
+  }
+}
